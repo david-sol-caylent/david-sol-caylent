@@ -7,5 +7,6 @@
 - 📫 How to reach me: <david.sol@caylent.com>
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I love Pen and Paper Role Playing Games
+- 📚 Favorite book: [The Hitchhickers Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy)
 
 ![Begin as you mean to go on](images/begin.png)
